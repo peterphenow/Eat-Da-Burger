@@ -1,17 +1,24 @@
+body {
+  background-color: rgb(73, 134, 214);
+  font-family: "Potta One", cursive;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+.burger-list {
+  background-color: rgb(231, 73, 73);
+  border-style: ridge;
+  border-radius: 20px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
 li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
-}
-
-.label {
-  font-weight: bold;
-}
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
 }
 
 .form-group {
