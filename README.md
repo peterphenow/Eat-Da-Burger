@@ -18,7 +18,7 @@ This project also used Node, Express.js, and Handlebars to complete.
 
 ## **Link**
 
-The app is deployed on heroku [here](https://hidden-headland-15912.herokuapp.com/).
+The app is deployed on heroku [here](https://eat-da-burger-pp.herokuapp.com/).
 
 ## **Screenshots**
 
